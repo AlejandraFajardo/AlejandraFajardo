@@ -57,5 +57,5 @@ Proyecto en Python con análisis exploratorio, limpieza de datos, visualizacione
 ---
 
 <div align="center">
-  <sub>✨ Gracias por visitar mi perfil ✨</sub>
+  <sub>✨Gracias por visitar mi perfil ✨</sub>
 </div>
