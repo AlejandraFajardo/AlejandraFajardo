@@ -1,6 +1,6 @@
 
   <h1>👋 ¡Hola! Soy Alejandra Fajardo</h1>
-  <h3>Data Analyst | Python | SQL | Power BI | Excel  
+  <h3>Data Analyst | Python | SQL | Power BI | Excel |  
   Estudiante de Ingeniería Industrial</h3>
 </div>
 
