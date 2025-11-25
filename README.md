@@ -44,11 +44,13 @@ Busco oportunidades para continuar creciendo en el campo del **análisis de dato
 
 ## 📁 Proyectos destacados
 
+### 📌 Optimización del Inventario para Click&Sip
+Proyecto enfocado en optimizar la gestión del inventario mediante análisis de datos para reducir costos, mejorar la rentabilidad y detectar productos de baja rotación y capital inmovilizado.
+
 ### 📌 Análisis COVID-19 en Latinoamérica  
 Proyecto en Python con análisis exploratorio, limpieza de datos, visualizaciones, documentación y notebook.
 
-
---
+---
 ## 📫 Conecta conmigo
 
 - 💼 **LinkedIn:** *https://www.linkedin.com/in/alejandra-fajardo-763279390/*  
