@@ -50,6 +50,9 @@ Proyecto enfocado en optimizar la gestión del inventario mediante análisis de 
 ### 📌 Análisis COVID-19 en Latinoamérica  
 Proyecto en Python con análisis exploratorio, limpieza de datos, visualizaciones, documentación y notebook.
 
+### 📌Analisis Global Super Store
+
+
 ---
 ## 📫 Conecta conmigo
 
