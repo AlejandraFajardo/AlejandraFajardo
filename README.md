@@ -8,11 +8,7 @@
 
 ## 📘 Sobre mí
 
-Soy Analista de Datos con conocimientos sólidos en **Python, SQL, Power BI, Excel y análisis estadístico**. Me enfoco en limpiar, explorar y transformar datos para obtener insights que apoyen decisiones operativas y estratégicas.
-
-Actualmente curso el **séptimo semestre de Ingeniería Industrial**, lo que me permite combinar la analítica con una visión práctica orientada a la **mejora continua, optimización de procesos y eficiencia operacional**.
-
-He trabajado en proyectos donde aplico técnicas de **visualización, modelado básico y storytelling con datos**, logrando comunicar hallazgos de forma clara para equipos no técnicos.
+Analista de Datos e Ingeniera Industrial en formación (7mo semestre) con enfoque en la optimización de procesos y eficiencia operativa. Experiencia transformando datos complejos en soluciones visuales mediante Power BI, SQL y Python para dar soporte a decisiones estratégicas. Especializada en el análisis de inventarios, detección de capital inmovilizado y modelado de datos relacionales para mejorar la rentabilidad organizacional.
 
 ---
 
